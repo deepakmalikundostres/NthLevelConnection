@@ -2,7 +2,7 @@
 This Project Contain How we can fetch the NthLevelConnection for a User 
 
 To gererate the sample data for users
-   run ``` node generateSampleData.js ````
+   run ``` node generateSampleData.js ```
    
 To fetch nth level 
    run ``` http://localhost:3000/users/{user_id}/friends/{level}```
