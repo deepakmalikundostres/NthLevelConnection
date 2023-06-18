@@ -27,6 +27,6 @@ Algorithm for fetching nth level
   After the while loop finishes, the nthLevelFriends array contains the IDs of friends at the desired level. It is then returned as the result of the function.```
  
 Time Complexity
-```Overall, the time complexity of the function can be approximated as O(N + M), where N is the total number of users and M is the average number of comments per blog.```
+ Overall, the time complexity of the function can be approximated as O(N + M), where N is the total number of users and M is the average number of comments per blog.```
   
 
