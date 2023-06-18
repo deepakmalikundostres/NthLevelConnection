@@ -1,0 +1,18 @@
+{
+  "name": "fantigerassignment",
+  "version": "1.0.0",
+  "description": "Api for finding nth package",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "author": "Deepak Malik",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "faker": "^5.5.3",
+    "mongoose": "^7.3.0",
+    "dotenv": "^8.2.0",
+    "http-errors": "^1.7.3"
+  }
+}
